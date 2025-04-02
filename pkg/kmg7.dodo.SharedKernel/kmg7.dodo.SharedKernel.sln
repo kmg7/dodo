@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmg7.dodo.SharedKernel", "kmg7.dodo.SharedKernel\kmg7.dodo.SharedKernel.csproj", "{DB1FC7C5-9788-4D19-917D-6AC04C763A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmg7.dodo.SharedKernel.Tests", "kmg7.dodo.SharedKernel.Tests\kmg7.dodo.SharedKernel.Tests.csproj", "{A9445779-753A-4B97-9CC1-D86A660E2B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1FC7C5-9788-4D19-917D-6AC04C763A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1FC7C5-9788-4D19-917D-6AC04C763A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1FC7C5-9788-4D19-917D-6AC04C763A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1FC7C5-9788-4D19-917D-6AC04C763A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9445779-753A-4B97-9CC1-D86A660E2B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9445779-753A-4B97-9CC1-D86A660E2B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9445779-753A-4B97-9CC1-D86A660E2B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9445779-753A-4B97-9CC1-D86A660E2B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9707038F-292B-403D-82BC-338819BFFA24}
+	EndGlobalSection
+EndGlobal
