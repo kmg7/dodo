@@ -2,7 +2,7 @@
 
 	<PropertyGroup>
 		<PackageId>kmg7.dodo.SharedKernel</PackageId>
-		<Version>0.0.1</Version>
+		<Version>0.0.2</Version>
 		<Authors>kmg7</Authors>
 		<TargetFramework>net9.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
